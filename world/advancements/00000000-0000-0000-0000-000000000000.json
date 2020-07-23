@@ -1,0 +1,65 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-07-22 05:05:16 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-07-22 05:06:13 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-07-22 05:05:16 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-07-22 05:05:16 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-07-22 05:05:16 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-07-22 05:05:16 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-07-22 05:05:16 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-07-22 05:06:13 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-07-22 05:10:37 +0500",
+      "minecraft:mountains": "2020-07-22 18:09:19 +0500",
+      "minecraft:beach": "2020-07-22 18:11:27 +0500",
+      "minecraft:river": "2020-07-22 18:09:44 +0500",
+      "minecraft:lukewarm_ocean": "2020-07-22 18:09:45 +0500",
+      "minecraft:wooded_mountains": "2020-07-22 18:09:39 +0500",
+      "minecraft:stone_shore": "2020-07-22 18:09:15 +0500",
+      "minecraft:swamp": "2020-07-22 05:06:00 +0500",
+      "minecraft:plains": "2020-07-22 05:05:13 +0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2567
+}

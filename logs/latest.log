@@ -1,0 +1,37 @@
+[00:00:00] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[00:00:01] [Server thread/INFO]: /msg sup, still shit?<--[HERE]
+[00:00:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:00:15] [Server thread/INFO]: ...ill shit?"<--[HERE]
+[00:00:33] [Server thread/INFO]: You whisper to Sami: "sup, still shit?"
+[00:00:33] [Server thread/INFO]: You whisper to AzanYousuf: "sup, still shit?"
+[00:00:44] [Server thread/INFO]: <Sami> thora behtar hua hay
+[00:00:48] [Server thread/INFO]: <Sami> pretty playable
+[00:01:02] [Server thread/INFO]: You whisper to Sami: okss
+[00:01:02] [Server thread/INFO]: You whisper to AzanYousuf: okss
+[00:01:14] [Server thread/INFO]: <Sami> whisper kyun karrahay ho? xD
+[00:01:24] [Server thread/INFO]: You whisper to Sami: pta nai cmd yehi ati hy
+[00:01:24] [Server thread/INFO]: You whisper to AzanYousuf: pta nai cmd yehi ati hy
+[00:02:59] [Server thread/INFO]: No player was found
+[00:03:15] [Server thread/INFO]: You whisper to Sami: im blue if i was green i woud die
+[00:03:15] [Server thread/INFO]: You whisper to AzanYousuf: im blue if i was green i woud die
+[00:03:24] [Server thread/INFO]: <Sami> O.o
+[00:03:40] [Server thread/INFO]: You whisper to Sami: azan hy .-.
+[00:03:40] [Server thread/INFO]: You whisper to AzanYousuf: azan hy .-.
+[00:03:48] [Server thread/INFO]: You whisper to Sami: pro
+[00:03:48] [Server thread/INFO]: You whisper to AzanYousuf: pro
+[00:04:01] [Server thread/INFO]: Invalid name or UUID
+[00:04:01] [Server thread/INFO]: /msg ~ test<--[HERE]
+[00:11:48] [Server thread/INFO]: Sami lost connection: Timed out
+[00:11:48] [Server thread/INFO]: Sami left the game
+[00:11:56] [Server thread/INFO]: Sami[/42.201.188.143:34262] logged in with entity id 31002 at (-450.7091359103274, 69.0, 12.860120863702786)
+[00:11:57] [Server thread/INFO]: Sami joined the game
+[00:33:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3623ms or 72 ticks behind
+[00:38:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:38:43] [Server thread/INFO]: <--[HERE]
+[00:38:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:38:45] [Server thread/INFO]: quit<--[HERE]
+[00:38:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:38:47] [Server thread/INFO]: :quit<--[HERE]
+[00:38:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:38:49] [Server thread/INFO]: /quit<--[HERE]
+[00:38:51] [Server thread/INFO]: Stopping server
