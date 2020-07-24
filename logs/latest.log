@@ -1,454 +1,474 @@
-[01:07:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[01:07:41] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:07:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:07:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:07:41] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:07:41] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:07:41] [main/INFO]: Reloading ResourceManager: Default
-[01:07:42] [Worker-Main-4/INFO]: Loaded 7 recipes
-[01:07:42] [Worker-Main-4/INFO]: Loaded 927 advancements
-[01:07:44] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[01:07:44] [Server thread/INFO]: Loading properties
-[01:07:44] [Server thread/INFO]: Default game type: SURVIVAL
-[01:07:44] [Server thread/INFO]: Generating keypair
-[01:07:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:07:44] [Server thread/INFO]: Using default channel type
-[01:07:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:07:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:07:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:07:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:07:45] [Server thread/INFO]: Preparing level "world"
-[01:07:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:07:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:07:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:07:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:07:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:07:47] [Server thread/INFO]: Preparing spawn area: 1%
-[01:07:48] [Server thread/INFO]: Time elapsed: 3351 ms
-[01:07:48] [Server thread/INFO]: Done (3.470s)! For help, type "help"
-[01:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
-[01:26:46] [Server thread/INFO]: Sami[/42.201.188.143:37902] logged in with entity id 412 at (-446.91059512656983, 65.0, 11.920810334585813)
-[01:26:46] [Server thread/INFO]: Sami joined the game
-[01:29:06] [Server thread/INFO]: ShadowMaster[/202.47.43.20:6816] logged in with entity id 684 at (-438.3989612629345, 65.0, -12.622159172080694)
-[01:29:06] [Server thread/INFO]: ShadowMaster joined the game
-[01:32:50] [Server thread/INFO]: Sami lost connection: Disconnected
-[01:32:50] [Server thread/INFO]: Sami left the game
-[01:32:50] [Server thread/INFO]: ShadowMaster lost connection: Disconnected
-[01:32:50] [Server thread/INFO]: ShadowMaster left the game
-[01:33:17] [Server thread/INFO]: Sami[/42.201.188.143:33818] logged in with entity id 1446 at (-445.3998376578963, 65.0, 8.588568241896732)
-[01:33:17] [Server thread/INFO]: Sami joined the game
-[01:33:18] [Server thread/INFO]: ShadowMaster[/202.47.43.20:7503] logged in with entity id 1502 at (-576.5347353957453, 109.0, -59.157459397692335)
-[01:33:18] [Server thread/INFO]: ShadowMaster joined the game
-[01:35:55] [Server thread/INFO]: AzanYousuf[/119.158.64.74:51659] logged in with entity id 2962 at (-443.32861417503455, 68.0, -45.958084736925244)
-[01:35:55] [Server thread/INFO]: AzanYousuf joined the game
-[01:36:14] [Server thread/INFO]: <AzanYousuf> hellooooooo
-[01:36:17] [Server thread/INFO]: <Sami> helloo
-[01:36:19] [Server thread/INFO]: <AzanYousuf> finally sv working fine
-[01:36:22] [Server thread/INFO]: <Sami> yeah
-[01:36:32] [Server thread/INFO]: <AzanYousuf> nether arha he koi sath
-[01:36:41] [Server thread/INFO]: <Sami> kia karna hay?
-[01:36:50] [Server thread/INFO]: <AzanYousuf> explore
-[01:36:56] [Server thread/INFO]: <Sami> nah abhi nahi w
-[01:37:02] [Server thread/INFO]: <ShadowMaster> coming
-[01:37:20] [Server thread/INFO]: <ShadowMaster> lemme get my gold helmet and wool for bed mining
-[01:38:54] [Server thread/INFO]: <AzanYousuf> waiting at portal
-[01:39:25] [Server thread/INFO]: <ShadowMaster> will take me 3-4 mins
-[01:42:48] [Server thread/INFO]: <AzanYousuf> i have 34 wool
-[01:43:08] [Server thread/INFO]: <ShadowMaster> yeah just need wood now
-[01:43:26] [Server thread/INFO]: <Sami> got 6 beds
-[01:43:53] [Server thread/INFO]: <AzanYousuf> bht laggy hrha mera
-[01:43:53] [Server thread/INFO]: <Sami> sameer where?
-[01:44:33] [Server thread/INFO]: <ShadowMaster> almost done
-[01:44:42] [Server thread/INFO]: <Sami> beds laylo
-[01:45:07] [Server thread/INFO]: <ShadowMaster> khair hai got enough material
-[01:45:24] [Server thread/INFO]: <ShadowMaster> thanks
-[01:46:47] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/5275, l='ServerLevel[world]', x=-432.98, y=67.00, z=14.35]
-[01:46:47] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/5275, l='ServerLevel[world]', x=-432.98, y=67.00, z=14.35]
-[01:46:47] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/5275, l='ServerLevel[world]', x=-432.98, y=67.00, z=14.35]
-[01:48:00] [Server thread/INFO]: <ShadowMaster> les go
-[01:49:32] [Server thread/INFO]: AzanYousuf lost connection: Timed out
-[01:49:32] [Server thread/INFO]: AzanYousuf left the game
-[01:49:57] [Server thread/INFO]: AzanYousuf[/119.158.64.74:51666] logged in with entity id 5884 at (-50.0974642073408, 110.0, 14.5)
-[01:49:57] [Server thread/INFO]: AzanYousuf joined the game
-[01:50:04] [Server thread/INFO]: <AzanYousuf> lag yr
-[01:51:03] [Server thread/INFO]: Sami lost connection: Disconnected
-[01:51:03] [Server thread/INFO]: Sami left the game
-[01:51:46] [Server thread/INFO]: <AzanYousuf> trade inse hti e?
-[01:51:56] [Server thread/INFO]: <ShadowMaster> piglin se haan
-[01:52:28] [Server thread/INFO]: <ShadowMaster> not that one I guess
-[01:52:35] [Server thread/INFO]: <AzanYousuf> i had a doubt
-[01:52:45] [Server thread/INFO]: <ShadowMaster> youll have to throw something to get something
-[01:52:52] [Server thread/INFO]: <AzanYousuf> yes ik i did he didnt pick it up
-[01:52:53] [Server thread/INFO]: <ShadowMaster> last time we exchanged gold
-[01:53:06] [Server thread/INFO]: <AzanYousuf> see
-[01:53:09] [Server thread/INFO]: <AzanYousuf> he aint picking
-[01:53:35] [Server thread/INFO]: <AzanYousuf> these ones
-[01:53:43] [Server thread/INFO]: <AzanYousuf> they trade
-[01:53:52] [Server thread/INFO]: <ShadowMaster> yea found one as well
-[01:54:07] [Server thread/INFO]: <ShadowMaster> oh its the same lol
-[01:54:07] [Server thread/INFO]: <AzanYousuf> nice
-[01:54:14] [Server thread/INFO]: <AzanYousuf> fire charge
-[01:54:19] [Server thread/INFO]: <AzanYousuf> u got it?
-[01:54:36] [Server thread/INFO]: <ShadowMaster> nope. Netherite chahiye :p
-[01:54:48] [Server thread/INFO]: <AzanYousuf> wuttt i saw a fire charge drop
-[01:54:50] [Server thread/INFO]: <AzanYousuf> kidhr gya
-[01:54:57] [Server thread/INFO]: <ShadowMaster> loll
-[01:55:04] [Server thread/INFO]: <AzanYousuf> aw cmon
-[01:55:08] [Server thread/INFO]: <ShadowMaster> is there a kid there
-[01:55:13] [Server thread/INFO]: <AzanYousuf> nah
-[01:55:17] [Server thread/INFO]: <ShadowMaster> hmm wierd
-[01:55:34] [Server thread/INFO]: <AzanYousuf> khair
-[01:56:06] [Server thread/INFO]: <AzanYousuf> wya
-[01:56:12] [Server thread/INFO]: <AzanYousuf> i got obsidian from trade nice
-[01:56:27] [Server thread/INFO]: <ShadowMaster> crying?
-[01:56:30] [Server thread/INFO]: <AzanYousuf> regular
-[01:56:36] [Server thread/INFO]: <ShadowMaster> ohh
-[01:56:56] [Server thread/INFO]: <ShadowMaster> ender pearl bhi milta hai insey
-[01:57:40] [Server thread/INFO]: <AzanYousuf> wya
-[01:58:04] [Server thread/INFO]: <ShadowMaster> whut
-[01:58:07] [Server thread/INFO]: <AzanYousuf> xyz
-[01:58:29] [Server thread/INFO]: <ShadowMaster> 3 94 73
-[01:59:47] [Server thread/INFO]: <AzanYousuf> got crying
-[02:00:05] [Server thread/INFO]: <ShadowMaster> u need fire charge? got loot from here
-[02:00:17] [Server thread/INFO]: <AzanYousuf> coming
-[02:01:29] [Server thread/INFO]: <AzanYousuf> thanks
-[02:01:40] [Server thread/INFO]: <ShadowMaster> wanna do some mining?
-[02:01:44] [Server thread/INFO]: <AzanYousuf> sure
-[02:01:53] [Server thread/INFO]: <ShadowMaster> need to go to y 15
-[02:02:04] [Server thread/INFO]: <AzanYousuf> ok
-[02:02:24] [Server thread/INFO]: <AzanYousuf> we can start from somewhere lower
-[02:02:27] [Server thread/INFO]: <AzanYousuf> so we same some time
-[02:02:34] [Server thread/INFO]: <ShadowMaster> yea
-[02:02:34] [Server thread/INFO]: <AzanYousuf> here
-[02:03:42] [Server thread/INFO]: <AzanYousuf> i think we can take this fall
-[02:03:51] [Server thread/INFO]: <ShadowMaster> not really XD
-[02:04:07] [Server thread/INFO]: <AzanYousuf> :p ok
-[02:04:38] [Server thread/INFO]: <ShadowMaster> loll
-[02:04:40] [Server thread/INFO]: <AzanYousuf> xd
-[02:04:56] [Server thread/INFO]: <AzanYousuf> lets go here
-[02:05:19] [Server thread/INFO]: <AzanYousuf> lmao
-[02:05:30] [Server thread/INFO]: <AzanYousuf> wasnt expecting that result tbh
-[02:05:46] [Server thread/INFO]: <AzanYousuf> start kren
-[02:05:51] [Server thread/INFO]: <ShadowMaster> sure
-[02:06:01] [Server thread/INFO]: <AzanYousuf> nether ruin wanna check it out first
-[02:07:21] [Server thread/INFO]: <ShadowMaster> where u at
-[02:07:27] [Server thread/INFO]: <AzanYousuf> ruin
-[02:07:30] [Server thread/INFO]: <AzanYousuf> coming back
-[02:08:20] [Server thread/INFO]: <AzanYousuf> back
-[02:08:51] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=37, y=46, z=119} fu{x=38, y=46, z=119}
-[02:08:51] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=37, y=46, z=119} fu{x=38, y=46, z=119}
-[02:08:51] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=37, y=46, z=119} fu{x=38, y=46, z=119}
-[02:09:01] [Server thread/INFO]: <ShadowMaster> u have a torch?
-[02:09:08] [Server thread/INFO]: <AzanYousuf> . no
-[02:09:19] [Server thread/INFO]: <ShadowMaster> cant see anything
-[02:09:26] [Server thread/INFO]: <AzanYousuf> i can
-[02:09:30] [Server thread/INFO]: <ShadowMaster> laptop ki brightness nahi itni
-[02:09:30] [Server thread/INFO]: <AzanYousuf> shouldi mine
-[02:09:34] [Server thread/INFO]: <AzanYousuf> i cna mine
-[02:09:35] [Server thread/INFO]: <ShadowMaster> sure
-[02:09:39] [Server thread/INFO]: <AzanYousuf> niche jana he na bs
-[02:09:47] [Server thread/INFO]: <ShadowMaster> yea y 15
-[02:10:22] [Server thread/INFO]: <AzanYousuf> abaeeee
-[02:10:23] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=29, y=36, z=118} fu{x=29, y=35, z=118}
-[02:10:29] [Server thread/INFO]: <AzanYousuf> come in
-[02:10:35] [Server thread/INFO]: <AzanYousuf> wtf u doing lmao
-[02:10:42] [Server thread/INFO]: <AzanYousuf> take some food u
-[02:10:52] [Server thread/INFO]: <AzanYousuf> chaye khana?
-[02:11:04] [Server thread/INFO]: <ShadowMaster> hogaya :p
-[02:11:31] [Server thread/INFO]: <AzanYousuf> lava
-[02:11:35] [Server thread/INFO]: <ShadowMaster> shit
-[02:12:37] [Server thread/INFO]: <AzanYousuf> we here
-[02:13:04] [Server thread/INFO]: <ShadowMaster> ye asad ne koi jagah chori nahi loll
-[02:13:08] [Server thread/INFO]: <AzanYousuf> xd
-[02:13:38] [Server thread/INFO]: <AzanYousuf> ima get lost here
-[02:13:49] [Server thread/INFO]: <AzanYousuf> what a maze
-[02:13:56] [Server thread/INFO]: <ShadowMaster> loll
-[02:14:03] [Server thread/INFO]: <AzanYousuf> how tf we going back any plans
-[02:14:04] [Server thread/INFO]: <AzanYousuf> xd
-[02:14:13] [Server thread/INFO]: <ShadowMaster> take some beds
-[02:14:33] [Server thread/INFO]: <AzanYousuf> move awway xddx
-[02:15:49] [Server thread/INFO]: <ShadowMaster> gonna start bed mining now
-[02:16:50] [Server thread/INFO]: <AzanYousuf> oh damn
-[02:17:30] [Server thread/INFO]: <AzanYousuf> some gold lol
-[02:18:37] [Server thread/INFO]: <ShadowMaster> lets go deeper
-[02:18:43] [Server thread/INFO]: <AzanYousuf> lemme do it
-[02:19:10] [Server thread/INFO]: <AzanYousuf> xd
-[02:19:16] [Server thread/INFO]: <ShadowMaster> shitt
-[02:19:34] [Server thread/INFO]: <ShadowMaster> try to make a tunnel then put it in
-[02:20:27] [Server thread/INFO]: <AzanYousuf> dont break dirt
-[02:20:28] [Server thread/INFO]: <AzanYousuf> lava
-[02:21:12] [Server thread/INFO]: <AzanYousuf> scared the soul outa me
-[02:21:19] [Server thread/INFO]: <AzanYousuf> no puns intended
-[02:21:22] [Server thread/INFO]: <ShadowMaster> oh didnt see ya there
-[02:23:00] [Server thread/INFO]: <ShadowMaster> koi aur rastay dhoondtay hain
-[02:23:20] [Server thread/INFO]: <AzanYousuf> here
-[02:23:23] [Server thread/INFO]: ShadowMaster burned to death
-[02:23:26] [Server thread/INFO]: <AzanYousuf> aw wtf
-[02:23:39] [Server thread/INFO]: <ShadowMaster> fck
-[02:23:50] [Server thread/INFO]: <AzanYousuf> i found so much ancient debris
-[02:23:55] [Server thread/INFO]: <ShadowMaster> cords bhejo aata hoon
-[02:24:22] [Server thread/INFO]: <AzanYousuf> -38 54
-[02:24:24] [Server thread/INFO]: <ShadowMaster> karma loll
-[02:24:39] [Server thread/INFO]: AzanYousuf has made the advancement [Hidden in the Depths]
-[02:25:06] [Server thread/INFO]: <AzanYousuf> only 3 nvm
-[02:25:16] [Server thread/INFO]: <ShadowMaster> thats alot
-[02:27:05] [Server thread/INFO]: ShadowMaster was slain by Zombified Piglin
-[02:27:15] [Server thread/INFO]: <ShadowMaster> abhay yar
-[02:27:23] [Server thread/INFO]: <AzanYousuf> not ur day today xd
-[02:30:57] [Server thread/INFO]: <AzanYousuf> aw fuck
-[02:30:58] [Server thread/INFO]: AzanYousuf tried to swim in lava
-[02:31:05] [Server thread/INFO]: <ShadowMaster> oh shat
-[02:31:11] [Server thread/INFO]: <AzanYousuf> khair he got 3 debris
-[02:31:28] [Server thread/INFO]: <ShadowMaster> lol I came to the nether again
-[02:32:05] [Server thread/INFO]: <AzanYousuf> rail chaye?
-[02:32:10] [Server thread/INFO]: <AzanYousuf> for the villager palce
-[02:32:11] [Server thread/INFO]: <AzanYousuf> place
-[02:32:28] [Server thread/INFO]: <ShadowMaster> abhi tou filhaal yahan hoon
-[02:33:57] [Server thread/INFO]: ShadowMaster has made the advancement [Hidden in the Depths]
-[02:34:00] [Server thread/INFO]: <AzanYousuf> nice
-[02:34:02] [Server thread/INFO]: <ShadowMaster> yayy
-[02:34:06] [Server thread/INFO]: <ShadowMaster> atlast
-[02:34:11] [Server thread/INFO]: <AzanYousuf> how many
-[02:34:24] [Server thread/INFO]: <ShadowMaster> 3
-[02:34:28] [Server thread/INFO]: <AzanYousuf> set
-[02:35:41] [Server thread/INFO]: <AzanYousuf> glistering melon ka kia faida he
-[02:35:57] [Server thread/INFO]: <ShadowMaster> dont know
-[02:41:55] [Server thread/INFO]: ShadowMaster lost connection: Timed out
-[02:41:55] [Server thread/INFO]: ShadowMaster left the game
-[02:42:20] [Server thread/INFO]: [AzanYousuf: Gave 999 [Block of Diamond] to AzanYousuf]
-[02:42:28] [Server thread/INFO]: ShadowMaster[/202.47.43.20:7809] logged in with entity id 13875 at (-123.69182205148522, 13.0, 91.47860144820862)
-[02:42:28] [Server thread/INFO]: ShadowMaster joined the game
-[02:42:47] [Server thread/INFO]: ShadowMaster lost connection: Disconnected
-[02:42:47] [Server thread/INFO]: ShadowMaster left the game
-[02:43:24] [Server thread/INFO]: ShadowMaster[/202.47.43.20:7940] logged in with entity id 14097 at (-123.69182205148522, 13.0, 91.47860144820862)
-[02:43:24] [Server thread/INFO]: ShadowMaster joined the game
-[02:44:56] [Server thread/INFO]: <AzanYousuf> still in nether?
-[02:45:01] [Server thread/INFO]: <ShadowMaster> yep
-[02:45:08] [Server thread/INFO]: <ShadowMaster> found 2 more
-[02:45:19] [Server thread/INFO]: <AzanYousuf> use kia hta he debris ka bhulgya me..... xd
-[02:45:34] [Server thread/INFO]: <ShadowMaster> netherite milta hai
-[02:45:39] [Server thread/INFO]: <AzanYousuf> oooo yes ok
-[02:45:43] [Server thread/INFO]: <ShadowMaster> ussay armor banana
-[02:45:49] [Server thread/INFO]: <AzanYousuf> han sahi yd agya
-[02:46:00] [Server thread/INFO]: AzanYousuf lost connection: Disconnected
-[02:46:00] [Server thread/INFO]: AzanYousuf left the game
-[02:56:16] [Server thread/INFO]: osamausf[/119.158.64.74:56365] logged in with entity id 16002 at (-471.4466962511162, 64.0, 24.419243303825414)
-[02:56:16] [Server thread/INFO]: osamausf joined the game
-[02:56:26] [Server thread/INFO]: ShadowMaster lost connection: Disconnected
-[02:56:26] [Server thread/INFO]: ShadowMaster left the game
-[02:56:26] [Server thread/INFO]: osamausf lost connection: Disconnected
-[02:56:26] [Server thread/INFO]: osamausf left the game
-[02:56:55] [Server thread/INFO]: ShadowMaster[/202.47.43.20:9531] logged in with entity id 16067 at (-393.36097860636806, 72.0, -37.623378070411306)
-[02:56:55] [Server thread/INFO]: ShadowMaster joined the game
-[02:57:04] [Server thread/INFO]: osamausf[/119.158.64.74:56371] logged in with entity id 16078 at (-471.4466962511162, 64.0, 24.419243303825414)
-[02:57:04] [Server thread/INFO]: osamausf joined the game
-[03:03:50] [Server thread/INFO]: Kazmi[/39.34.147.114:30834] logged in with entity id 16996 at (-425.5, 68.0, -37.5)
-[03:03:50] [Server thread/INFO]: Kazmi joined the game
-[03:04:07] [Server thread/INFO]: Kazmi lost connection: Timed out
-[03:04:07] [Server thread/INFO]: Kazmi left the game
-[03:04:19] [Server thread/INFO]: Kazmi[/39.34.147.114:30066] logged in with entity id 17059 at (-425.5, 68.0, -37.5)
-[03:04:19] [Server thread/INFO]: Kazmi joined the game
-[03:04:58] [Server thread/INFO]: Teleported Kazmi to osamausf
-[03:06:38] [Server thread/INFO]: <osamausf> asad op please
-[03:06:53] [Server thread/INFO]: <ShadowMaster> u mean tp
-[03:06:57] [Server thread/INFO]: <osamausf> operator
-[03:07:05] [Server thread/INFO]: <ShadowMaster> ohh
-[03:07:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
-[03:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4211ms or 84 ticks behind
-[03:07:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11128ms or 222 ticks behind
-[03:10:38] [Server thread/INFO]: Kazmi was slain by Zombie
-[03:10:38] [Server thread/INFO]: osamausf was impaled by Drowned
-[03:11:00] [Server thread/INFO]: Inversia[/118.103.234.92:59554] logged in with entity id 18033 at (-499.0469540617856, 64.0, -9.699999988079071)
-[03:11:01] [Server thread/INFO]: Inversia joined the game
-[03:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
-[03:11:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6619ms or 132 ticks behind
-[03:12:30] [Server thread/INFO]: <osamausf> azans
-[03:12:36] [Server thread/INFO]: <osamausf> wow nether armor ....
-[03:12:46] [Server thread/INFO]: <Inversia> yesssssssssss
-[03:12:49] [Server thread/INFO]: <osamausf> nice
-[03:12:59] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/18383, l='ServerLevel[world]', x=-434.86, y=64.00, z=14.32]
-[03:12:59] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/18383, l='ServerLevel[world]', x=-434.86, y=64.00, z=14.32]
-[03:12:59] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/18383, l='ServerLevel[world]', x=-434.86, y=64.00, z=14.32]
-[03:12:59] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/18383, l='ServerLevel[world]', x=-434.86, y=64.00, z=14.32]
-[03:15:41] [Server thread/WARN]: Inversia moved too quickly! -10.048756551460599,0.0,0.5110672589007734
-[03:19:34] [Server thread/WARN]: Inversia moved too quickly! -9.573907912114635,0.41999998688697815,-3.2000753827148216
-[03:19:58] [Server thread/INFO]: <ShadowMaster> kazmi ko castle dedo
-[03:20:05] [Server thread/WARN]: Inversia moved too quickly! -9.828558519189983,-0.7508129212553172,-2.242400720726984
-[03:20:22] [Server thread/INFO]: <ShadowMaster> woh usko khud complete karlegi XD
-[03:20:26] [Server thread/INFO]: <osamausf> XD
-[03:21:33] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/20163, l='ServerLevel[world]', x=-429.43, y=67.00, z=13.67]
-[03:21:33] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/20163, l='ServerLevel[world]', x=-429.43, y=67.00, z=13.67]
-[03:21:39] [Server thread/WARN]: Boat (vehicle of Kazmi) moved wrongly! 0.4620086254309399
-[03:21:39] [Server thread/WARN]: Boat (vehicle of Kazmi) moved wrongly! 0.688133690409586
-[03:21:39] [Server thread/WARN]: Boat (vehicle of Kazmi) moved wrongly! 0.3207307668906765
-[03:21:39] [Server thread/WARN]: Boat (vehicle of Kazmi) moved wrongly! 0.4792484226903184
-[03:21:39] [Server thread/WARN]: Boat (vehicle of Kazmi) moved wrongly! 0.6205645668806028
-[03:21:39] [Server thread/WARN]: Boat (vehicle of Kazmi) moved wrongly! 0.7464094617797628
-[03:21:39] [Server thread/WARN]: Boat (vehicle of Kazmi) moved wrongly! 0.8588007219112797
-[03:21:39] [Server thread/WARN]: Boat (vehicle of Kazmi) moved wrongly! 0.9590848074078622
-[03:21:40] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/20191, l='ServerLevel[world]', x=-432.20, y=64.00, z=15.05]
-[03:21:40] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/20191, l='ServerLevel[world]', x=-432.20, y=64.00, z=15.05]
-[03:23:44] [Server thread/INFO]: <osamausf> v cool
-[03:23:56] [Server thread/INFO]: <osamausf> asad subah krdo
-[03:24:02] [Server thread/INFO]: <Inversia> sab sojao
-[03:24:12] [Server thread/INFO]: <osamausf> XD
-[03:24:30] [Server thread/INFO]: <Inversia> in bed
-[03:24:33] [Server thread/INFO]: <osamausf> cant lol
-[03:24:42] [Server thread/INFO]: [Inversia: Set the time to 1000]
-[03:25:05] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/20784, l='ServerLevel[world]', x=-428.75, y=67.00, z=13.83]
-[03:25:05] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/20784, l='ServerLevel[world]', x=-428.75, y=67.00, z=13.83]
-[03:28:38] [Server thread/INFO]: osamausf lost connection: Disconnected
-[03:28:38] [Server thread/INFO]: osamausf left the game
-[03:28:49] [Server thread/INFO]: osamausf[/119.158.64.74:56426] logged in with entity id 21469 at (-523.9606350505609, 64.49520087700593, -77.19098871940373)
-[03:28:49] [Server thread/INFO]: osamausf joined the game
-[03:30:25] [Server thread/INFO]: Kazmi has made the advancement [Stone Age]
-[03:30:35] [Server thread/INFO]: <ShadowMaster> first of many
-[03:32:56] [Server thread/INFO]: <osamausf> kazmi is mining coal, progress
-[03:33:06] [Server thread/INFO]: <Inversia> faster than u guys xD
-[03:33:11] [Server thread/INFO]: <osamausf> better teacher
-[03:33:12] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[03:33:16] [Server thread/INFO]: <osamausf> XD
-[03:35:06] [Server thread/INFO]: Kazmi has made the advancement [Getting an Upgrade]
-[03:36:49] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/22964, l='ServerLevel[world]', x=-431.89, y=67.00, z=13.43]
-[03:36:49] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/22964, l='ServerLevel[world]', x=-431.89, y=67.00, z=13.43]
-[03:38:16] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[03:39:38] [Server thread/WARN]: Fetching packet for removed entity bbg['Cobblestone'/23479, l='ServerLevel[world]', x=-506.90, y=37.48, z=-83.58]
-[03:41:35] [Server thread/WARN]: Inversia moved too quickly! -10.115194896599405,0.0,-0.9306022567462229
-[03:42:05] [Server thread/INFO]: Inversia has completed the challenge [Bullseye]
-[03:43:19] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[03:43:55] [Server thread/INFO]: ShadowMaster has completed the challenge [Bullseye]
-[03:46:47] [Server thread/INFO]: Kazmi has made the advancement [Acquire Hardware]
-[03:47:55] [Server thread/WARN]: Fetching packet for removed entity bbg['Sugar Cane'/25740, l='ServerLevel[world]', x=-433.87, y=64.00, z=4.10]
-[03:48:04] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/25832, l='ServerLevel[world]', x=-428.68, y=67.00, z=14.73]
-[03:48:04] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/25832, l='ServerLevel[world]', x=-428.68, y=67.00, z=14.73]
-[03:48:24] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[03:48:38] [Server thread/INFO]: Kazmi has made the advancement [Isn't It Iron Pick]
-[03:49:58] [Server thread/INFO]: Inversia lost connection: Disconnected
-[03:49:58] [Server thread/INFO]: Inversia left the game
-[03:49:58] [Server thread/INFO]: Inversia[/118.103.234.92:59745] logged in with entity id 26169 at (-484.2750010291764, 64.0, -16.627770077804833)
-[03:49:58] [Server thread/INFO]: Inversia joined the game
-[03:51:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/26615, l='ServerLevel[world]', x=-428.24, y=67.00, z=12.54]
-[03:54:08] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[03:58:40] [Server thread/INFO]: Inversia lost connection: Disconnected
-[03:58:40] [Server thread/INFO]: Inversia left the game
-[03:58:42] [Server thread/INFO]: Inversia[/118.103.234.92:59803] logged in with entity id 28709 at (-468.62291660311837, 64.0, 5.676886834110046)
-[03:58:42] [Server thread/INFO]: Inversia joined the game
-[03:59:03] [Server thread/INFO]: Inversia lost connection: Disconnected
-[03:59:03] [Server thread/INFO]: Inversia left the game
-[03:59:04] [Server thread/INFO]: Inversia[/118.103.234.92:59805] logged in with entity id 28822 at (-468.62291660311837, 64.0, 5.676886834110046)
-[03:59:04] [Server thread/INFO]: Inversia joined the game
-[03:59:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[03:59:15] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[04:01:26] [Server thread/INFO]: Kazmi was slain by Zombie
-[04:02:11] [Server thread/INFO]: <osamausf> tpl kazmi to me @asad
-[04:02:21] [Server thread/INFO]: <osamausf> tp*
-[04:02:22] [Server thread/INFO]: [Inversia: Teleported Kazmi to osamausf]
-[04:02:28] [Server thread/INFO]: <osamausf> ty
-[04:04:19] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[04:06:27] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/30564, l='ServerLevel[world]', x=-429.45, y=67.00, z=15.06]
-[04:06:27] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/30564, l='ServerLevel[world]', x=-429.45, y=67.00, z=15.06]
-[04:07:47] [Server thread/INFO]: Kazmi lost connection: Disconnected
-[04:07:47] [Server thread/INFO]: Kazmi left the game
-[04:07:48] [Server thread/INFO]: Ooyy[/39.50.173.177:50381] logged in with entity id 31056 at (-426.5, 67.0, -41.5)
-[04:07:48] [Server thread/INFO]: Ooyy joined the game
-[04:08:13] [Server thread/INFO]: Kazmi[/39.34.147.114:30999] logged in with entity id 31186 at (-684.3874431696732, 11.0, -166.69999998807907)
-[04:08:13] [Server thread/INFO]: Kazmi joined the game
-[04:08:26] [Server thread/WARN]: Inversia moved too quickly! 7.376144163615379,1.0,6.733960723652093
-[04:09:22] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[04:13:00] [Server thread/INFO]: Inversia fell from a high place
-[04:14:00] [Server thread/INFO]: Ooyy has made the advancement [Stone Age]
-[04:14:25] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[04:15:16] [Server thread/INFO]: Ooyy has made the advancement [Getting an Upgrade]
-[04:16:18] [Server thread/INFO]: Ooyy has made the advancement [Diamonds!]
-[04:16:18] [Server thread/INFO]: Ooyy has made the advancement [Acquire Hardware]
-[04:16:45] [Server thread/INFO]: <ShadowMaster> osama check kar rahain hain ye aap
-[04:16:50] [Server thread/INFO]: <osamausf> hahaha
-[04:16:51] [Server thread/INFO]: <osamausf> tspeed
-[04:17:00] [Server thread/INFO]: <ShadowMaster> diamond then hardware
-[04:17:03] [Server thread/INFO]: <osamausf> xD
-[04:17:07] [Server thread/INFO]: <osamausf> mera abhe tk stone ni hua wese
-[04:17:30] [Server thread/INFO]: Kazmi was blown up by Creeper
-[04:17:34] [Server thread/INFO]: <osamausf> rip
-[04:17:35] [Server thread/INFO]: <Inversia> f
-[04:17:41] [Server thread/INFO]: <ShadowMaster> f
-[04:17:52] [Server thread/INFO]: <osamausf> tele XD
-[04:17:58] [Server thread/INFO]: [Inversia: Teleported Kazmi to osamausf]
-[04:18:38] [Server thread/INFO]: osamausf was slain by Kazmi
-[04:18:40] [Server thread/INFO]: Kazmi has made the advancement [Monster Hunter]
-[04:18:44] [Server thread/INFO]: <Inversia> rip
-[04:18:45] [Server thread/INFO]: <osamausf> very cool
-[04:18:52] [Server thread/INFO]: <Inversia> darth vader vibes xD
-[04:18:54] [Server thread/INFO]: <osamausf> tele back isse phle yeh jaaye XD
-[04:19:07] [Server thread/INFO]: [Inversia: Teleported osamausf to Kazmi]
-[04:19:31] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[04:19:38] [Server thread/INFO]: <ShadowMaster> aray bhai iska respawn point set karlo
-[04:22:29] [Server thread/INFO]: osamausf lost connection: Disconnected
-[04:22:29] [Server thread/INFO]: osamausf left the game
-[04:22:53] [Server thread/INFO]: osamausf[/119.158.64.74:56497] logged in with entity id 34779 at (-785.9112276510762, 14.0, -121.69999998807907)
-[04:22:53] [Server thread/INFO]: osamausf joined the game
-[04:24:35] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[04:25:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[04:26:35] [Server thread/INFO]: Inversia tried to swim in lava
-[04:26:38] [Server thread/INFO]: <osamausf> f
-[04:26:54] [Server thread/WARN]: Inversia moved too quickly! -5.429626993960767,-0.5445322604149823,-8.561093436210708
-[04:27:39] [Server thread/INFO]: Kazmi has made the advancement [Diamonds!]
-[04:27:49] [Server thread/INFO]: <ShadowMaster> woaaaaaaaaaaaaaaaahhhhhhhhhhhhh
-[04:27:51] [Server thread/INFO]: <osamausf> XD
-[04:27:57] [Server thread/INFO]: <osamausf> mining expert Kazmi
-[04:28:15] [Server thread/INFO]: <ShadowMaster> bhai asad se pickaxe le letay diamond ke liye
-[04:28:26] [Server thread/INFO]: <osamausf> had mine
-[04:31:40] [Server thread/INFO]: Ooyy has made the advancement [Suit Up]
-[04:31:57] [Server thread/INFO]: osamausf was blown up by Creeper
-[04:31:57] [Server thread/INFO]: Kazmi was blown up by Creeper
-[04:32:00] [Server thread/INFO]: <Inversia> f
-[04:32:02] [Server thread/INFO]: <Inversia> ff
-[04:32:04] [Server thread/INFO]: <osamausf> f'
-[04:32:05] [Server thread/INFO]: <ShadowMaster> f
-[04:32:15] [Server thread/INFO]: <Inversia> ab kisko tp karoun xD
-[04:33:09] [Server thread/INFO]: Ooyy was blown up by Creeper
-[04:33:12] [Server thread/INFO]: <osamausf> f
-[04:35:29] [Server thread/INFO]: [Inversia: Teleported ShadowMaster to Inversia]
-[04:37:33] [Server thread/INFO]: Kazmi was slain by Zombie
-[04:38:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-206, y=120, z=273} fu{x=-206, y=119, z=273}
-[04:38:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-206, y=120, z=273} fu{x=-206, y=119, z=273}
-[04:41:13] [Server thread/INFO]: Inversia fell from a high place
-[04:41:31] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[04:42:08] [Server thread/INFO]: Ooyy has made the advancement [We Need to Go Deeper]
-[04:42:53] [Server thread/WARN]: Inversia moved too quickly! -3.4411670090817097,1.7531999805212024,-9.424755418462457
-[04:43:22] [Server thread/WARN]: Inversia moved too quickly! 7.784164256845543,-3.0,-5.78239844914215
-[04:43:48] [Server thread/INFO]: Kazmi was slain by osamausf
-[04:43:50] [Server thread/WARN]: Fetching packet for removed entity bbg['Birch Log'/42950, l='ServerLevel[world]', x=-332.91, y=72.38, z=-79.52]
-[04:44:05] [Server thread/INFO]: Kazmi was slain by osamausf
-[04:45:16] [Server thread/WARN]: Inversia moved too quickly! -7.851998016326888,0.0,6.235622457835193
-[04:45:46] [Server thread/WARN]: Inversia moved too quickly! 0.0058569055906190215,-0.12160004615783748,10.50214581971035
-[04:46:44] [Server thread/INFO]: ShadowMaster fell from a high place
-[04:47:01] [Server thread/INFO]: <osamausf> grow up
-[04:47:07] [Server thread/INFO]: [Inversia: Teleported ShadowMaster to Inversia]
-[04:47:24] [Server thread/INFO]: Kazmi was slain by osamausf
-[04:49:14] [Server thread/INFO]: [Inversia: Set the weather to clear]
-[04:49:30] [Server thread/INFO]: Kazmi lost connection: Disconnected
-[04:49:30] [Server thread/INFO]: Kazmi left the game
-[04:49:41] [Server thread/INFO]: osamausf lost connection: Disconnected
-[04:49:41] [Server thread/INFO]: osamausf left the game
-[04:49:57] [Server thread/INFO]: Ooyy was slain by Zombie
-[04:50:11] [Server thread/INFO]: Ooyy lost connection: Disconnected
-[04:50:11] [Server thread/INFO]: Ooyy left the game
-[04:53:23] [Server thread/INFO]: ShadowMaster fell off a ladder
-[04:53:36] [Server thread/INFO]: [Inversia: Teleported ShadowMaster to Inversia]
-[05:07:10] [Server thread/INFO]: Inversia lost connection: Disconnected
-[05:07:10] [Server thread/INFO]: Inversia left the game
-[05:07:14] [Server thread/INFO]: ShadowMaster lost connection: Disconnected
-[05:07:14] [Server thread/INFO]: ShadowMaster left the game
-[05:07:39] [Server thread/INFO]: Stopping the server
-[05:07:39] [Server thread/INFO]: Stopping server
-[05:07:40] [Server thread/INFO]: Saving players
-[05:07:40] [Server thread/INFO]: Saving worlds
-[05:07:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:07:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:07:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:07:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:07:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:07:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:07:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:07:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:07:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:57] [Server thread/INFO]: Ateeb was slain by Spider
+[00:01:08] [Server thread/INFO]: <Ateeb> I think I got an enchanted bow
+[00:01:16] [Server thread/INFO]: <Ateeb> Can someone repair it for me?
+[00:01:20] [Server thread/INFO]: <Sami> nice!
+[00:01:26] [Server thread/INFO]: <Sami> konsi enchantment?
+[00:01:29] [Server thread/INFO]: <Ateeb> Accidentally killed a skeleton
+[00:01:34] [Server thread/INFO]: <Ateeb> Unbreaking 2
+[00:01:37] [Server thread/INFO]: <Ateeb> Punch 1
+[00:02:18] [Server thread/WARN]: Ateeb moved too quickly! -6.264784262210242,-1.8622826671866903,-7.687019858430233
+[00:02:24] [Server thread/INFO]: <Ateeb> wait, waht does it cost to repair?
+[00:02:37] [Server thread/INFO]: <Sami> all repairs are different
+[00:02:41] [Server thread/INFO]: <Sami> lay k aajao yahan
+[00:02:43] [Server thread/INFO]: <Sami> will check
+[00:02:49] [Server thread/INFO]: <Ateeb> set give me a few minutes
+[00:05:13] [Server thread/INFO]: Inversia[/103.101.232.185:51892] logged in with entity id 78756 at (-503.45792239987935, 65.0, -33.701301997524155)
+[00:05:14] [Server thread/INFO]: Inversia joined the game
+[00:05:22] [Server thread/INFO]: 007Sameer[/202.47.50.2:56546] logged in with entity id 78789 at (-441.39846900823244, 65.0, -8.950936421661211)
+[00:05:22] [Server thread/INFO]: 007Sameer joined the game
+[00:05:33] [Server thread/INFO]: <Inversia> my poor pc
+[00:05:39] [Server thread/INFO]: <Inversia> ram pigal jai gi xD
+[00:05:39] [Server thread/INFO]: <Sami> hahahahah
+[00:05:47] [Server thread/INFO]: <007Sameer> xD
+[00:06:14] [Server thread/INFO]: <007Sameer> elevator ky saamnay ni lagana, wouldn't be able to go in
+[00:06:30] [Server thread/WARN]: ShadowMaster moved wrongly!
+[00:06:39] [Server thread/INFO]: <Sami> oks
+[00:06:41] [Server thread/INFO]: Kazmi[/39.34.147.114:30746] logged in with entity id 79079 at (-398.52265229032946, 64.0, -1.2469896536493323)
+[00:06:41] [Server thread/INFO]: Kazmi joined the game
+[00:06:46] [Server thread/INFO]: <ShadowMaster> bois check the gate
+[00:06:49] [Server thread/INFO]: <007Sameer> where
+[00:06:51] [Server thread/INFO]: <007Sameer> what gate
+[00:06:57] [Server thread/INFO]: <ShadowMaster> azan ke ghar ke aagay
+[00:07:01] [Server thread/INFO]: <007Sameer> wo kahan hy xD
+[00:07:07] [Server thread/INFO]: <007Sameer> oh haaan
+[00:07:08] [Server thread/INFO]: <007Sameer> aya
+[00:07:10] [Server thread/INFO]: <007Sameer> also, discord guys
+[00:07:22] [Server thread/INFO]: <ShadowMaster> ++ ^
+[00:07:28] [Server thread/WARN]: Sami moved wrongly!
+[00:07:33] [Server thread/INFO]: <007Sameer> xD
+[00:07:34] [Server thread/INFO]: <Sami> hahahahaha
+[00:07:35] [Server thread/INFO]: <007Sameer> suffocation
+[00:07:47] [Server thread/INFO]: <007Sameer> cool
+[00:07:49] [Server thread/INFO]: <007Sameer> nice workk
+[00:07:52] [Server thread/INFO]: <ShadowMaster> thanks
+[00:08:02] [Server thread/INFO]: <007Sameer> kazmi in the house
+[00:08:13] [Server thread/INFO]: <ShadowMaster> bhaiyon discord aajao
+[00:08:27] [Server thread/INFO]: Sami lost connection: Disconnected
+[00:08:27] [Server thread/INFO]: Sami left the game
+[00:08:27] [Server thread/INFO]: Inversia lost connection: Disconnected
+[00:08:27] [Server thread/INFO]: Inversia left the game
+[00:08:28] [Server thread/INFO]: 007Sameer lost connection: Disconnected
+[00:08:28] [Server thread/INFO]: 007Sameer left the game
+[00:08:28] [Server thread/INFO]: Kazmi lost connection: Disconnected
+[00:08:28] [Server thread/INFO]: Kazmi left the game
+[00:08:28] [Server thread/INFO]: ShadowMaster lost connection: Disconnected
+[00:08:28] [Server thread/INFO]: ShadowMaster left the game
+[00:08:28] [Server thread/INFO]: Ateeb lost connection: Disconnected
+[00:08:28] [Server thread/INFO]: Ateeb left the game
+[00:08:47] [Server thread/INFO]: Inversia[/103.101.232.185:51938] logged in with entity id 79535 at (-500.94242484588796, 64.0, -30.733610820758674)
+[00:08:47] [Server thread/INFO]: Inversia joined the game
+[00:08:50] [Server thread/INFO]: Sami[/42.201.188.143:32680] logged in with entity id 79569 at (-452.077069805499, 64.5, 1.0023213078118711)
+[00:08:50] [Server thread/INFO]: Sami joined the game
+[00:08:51] [Server thread/INFO]: ShadowMaster[/202.47.43.20:9212] logged in with entity id 79580 at (-472.0342390091469, 64.0, -16.789231816504383)
+[00:08:51] [Server thread/INFO]: ShadowMaster joined the game
+[00:08:52] [Server thread/INFO]: 007Sameer[/202.47.50.2:56658] logged in with entity id 79597 at (-444.63351456532945, 64.0, 21.575329108213396)
+[00:08:52] [Server thread/INFO]: 007Sameer joined the game
+[00:08:55] [Server thread/INFO]: Kazmi[/39.34.147.114:30238] logged in with entity id 79612 at (-398.52265229032946, 64.0, -1.2469896536493323)
+[00:08:55] [Server thread/INFO]: Kazmi joined the game
+[00:09:02] [Server thread/INFO]: Ateeb[/58.65.198.252:53648] logged in with entity id 79661 at (-665.7097202935815, 77.0, -101.7978057642735)
+[00:09:02] [Server thread/INFO]: Ateeb joined the game
+[00:09:08] [Server thread/INFO]: <007Sameer> fletcher giving discounts now
+[00:09:10] [Server thread/INFO]: Kazmi lost connection: Timed out
+[00:09:10] [Server thread/INFO]: Kazmi left the game
+[00:09:25] [Server thread/INFO]: <007Sameer> and golem offering poppies to cleric, cuto
+[00:09:32] [Server thread/INFO]: Ateeb lost connection: Timed out
+[00:09:32] [Server thread/INFO]: Ateeb left the game
+[00:09:38] [Server thread/INFO]: Kazmi[/39.34.147.114:30574] logged in with entity id 79803 at (-398.52265229032946, 64.0, -1.2469896536493323)
+[00:09:38] [Server thread/INFO]: Kazmi joined the game
+[00:09:53] [Server thread/INFO]: Ateeb[/58.65.198.252:53757] logged in with entity id 79899 at (-665.7097202935815, 77.0, -101.7978057642735)
+[00:09:53] [Server thread/INFO]: Ateeb joined the game
+[00:11:11] [Server thread/INFO]: Inversia lost connection: Disconnected
+[00:11:11] [Server thread/INFO]: Inversia left the game
+[00:11:13] [Server thread/INFO]: <ShadowMaster> inversia invitation dain?
+[00:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:11:27] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/80307, l='ServerLevel[world]', x=-430.47, y=67.00, z=13.77]
+[00:11:27] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/80307, l='ServerLevel[world]', x=-430.47, y=67.00, z=13.77]
+[00:11:27] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/80307, l='ServerLevel[world]', x=-430.47, y=67.00, z=13.77]
+[00:11:27] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/80307, l='ServerLevel[world]', x=-430.47, y=67.00, z=13.77]
+[00:11:33] [Server thread/INFO]: Inversia[/103.101.232.185:51962] logged in with entity id 80349 at (-499.26256151700045, 63.09375, -35.32367730688655)
+[00:11:33] [Server thread/INFO]: Inversia joined the game
+[00:11:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5965ms or 119 ticks behind
+[00:11:50] [Server thread/INFO]: <ShadowMaster> inversia invitation dain?
+[00:12:21] [Server thread/INFO]: <007Sameer> glass librarian sey trade krlo
+[00:12:24] [Server thread/INFO]: <Inversia> ram dedo
+[00:12:28] [Server thread/INFO]: <007Sameer> 1 emerald -> 4 glass
+[00:12:28] [Server thread/WARN]: ShadowMaster moved too quickly! -3.4800678243354355,0.09375,-9.429748262894556
+[00:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3546ms or 70 ticks behind
+[00:12:36] [Server thread/INFO]: <007Sameer> sheep chalaygi
+[00:13:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:14:01] [Server thread/INFO]: Kazmi was shot by Sami
+[00:14:06] [Server thread/INFO]: <007Sameer> nice xD
+[00:14:14] [Server thread/WARN]: Fetching packet for removed entity bbg['Sand'/81056, l='ServerLevel[world]', x=-367.78, y=62.70, z=10.62]
+[00:14:50] [Server thread/INFO]: <007Sameer> fazool trader, nautilus shell wala lao
+[00:14:56] [Server thread/INFO]: <007Sameer> discorddd
+[00:15:24] [Server thread/INFO]: <ShadowMaster> tum tou kuch bolo sameeer
+[00:15:33] [Server thread/INFO]: <007Sameer> wo possible ni xD
+[00:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:16:20] [Server thread/INFO]: Kazmi was shot by Sami
+[00:16:42] [Server thread/INFO]: <Kazmi> masla kiya he tmhari life ka sami
+[00:17:07] [Server thread/WARN]: Fetching packet for removed entity bbg['Smooth Stone Slab'/81882, l='ServerLevel[world]', x=-500.53, y=64.03, z=-23.24]
+[00:17:39] [Server thread/WARN]: ShadowMaster moved too quickly! -3.05758805468588,0.0,9.613315289675604
+[00:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7139ms or 142 ticks behind
+[00:18:01] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82110, l='ServerLevel[world]', x=-432.57, y=67.00, z=14.12]
+[00:18:01] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82110, l='ServerLevel[world]', x=-432.57, y=67.00, z=14.12]
+[00:18:01] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82110, l='ServerLevel[world]', x=-432.57, y=67.00, z=14.12]
+[00:18:01] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82110, l='ServerLevel[world]', x=-432.57, y=67.00, z=14.12]
+[00:18:01] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82110, l='ServerLevel[world]', x=-432.57, y=67.00, z=14.12]
+[00:18:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[00:18:16] [Server thread/INFO]: <007Sameer> I have 16 splash potions of slow falling
+[00:18:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82258, l='ServerLevel[world]', x=-428.87, y=64.00, z=11.86]
+[00:18:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82258, l='ServerLevel[world]', x=-428.87, y=64.00, z=11.86]
+[00:18:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82258, l='ServerLevel[world]', x=-428.87, y=64.00, z=11.86]
+[00:18:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82258, l='ServerLevel[world]', x=-428.87, y=64.00, z=11.86]
+[00:18:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82258, l='ServerLevel[world]', x=-428.87, y=64.00, z=11.86]
+[00:18:43] [Server thread/INFO]: <007Sameer> nvm, forgot, 12 xD
+[00:18:57] [Server thread/INFO]: <Sami> areeba ghar kahan banana hay?
+[00:19:06] [Server thread/INFO]: <007Sameer> warning shots xD
+[00:19:08] [Server thread/INFO]: <007Sameer> no phadda
+[00:19:08] [Server thread/INFO]: <Kazmi> sameeer ke bache
+[00:19:10] [Server thread/INFO]: <Sami> finish him xD
+[00:19:16] [Server thread/INFO]: <Kazmi> ajeeeeb
+[00:19:21] [Server thread/INFO]: <007Sameer> village is safe zone
+[00:19:21] [Server thread/INFO]: <Kazmi> kun tang kar rh ho sab
+[00:19:23] [Server thread/INFO]: <007Sameer> neutral
+[00:19:25] [Server thread/INFO]: <007Sameer> lollll
+[00:19:27] [Server thread/INFO]: <007Sameer> sojao jakr
+[00:19:31] [Server thread/INFO]: <007Sameer> phantoms itnay agye hain
+[00:19:31] [Server thread/INFO]: <Sami> arrow bow lo na
+[00:19:34] [Server thread/INFO]: <Sami> and fight him
+[00:19:36] [Server thread/INFO]: <Ateeb> Somebody get me arrows. I need to try out the new bow too xD
+[00:19:47] [Server thread/INFO]: <007Sameer> I have stacks
+[00:19:52] [Server thread/INFO]: <007Sameer> ajao
+[00:19:57] [Server thread/INFO]: <Ateeb> kidhar ho?
+[00:19:58] [Server thread/INFO]: <007Sameer> afk hy?
+[00:19:58] [Server thread/INFO]: <Ateeb> base?
+[00:20:00] [Server thread/INFO]: <Kazmi> osama >>>>>>>. you all
+[00:20:00] [Server thread/INFO]: <007Sameer> yea
+[00:20:09] [Server thread/INFO]: AzanYousuf[/111.88.223.122:53709] logged in with entity id 82711 at (-114.60384599173157, 14.0, 47.27536997835473)
+[00:20:09] [Server thread/INFO]: AzanYousuf joined the game
+[00:20:13] [Server thread/INFO]: <007Sameer> arey mai tou keh rha hoon base mai no phadda
+[00:20:15] [Server thread/INFO]: Ateeb was slain by Zombie
+[00:20:18] [Server thread/INFO]: <ShadowMaster> sab sojao
+[00:20:20] [Server thread/INFO]: <Ateeb> aagaya
+[00:20:22] [Server thread/INFO]: <007Sameer> cause sb jaagtay rhy ho itna
+[00:20:31] [Server thread/INFO]: <Sami> areeba phantoms maar rahay hain
+[00:20:32] [Server thread/INFO]: <Kazmi> no phadda bol ke maray jarae ho
+[00:20:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82981, l='ServerLevel[world]', x=-430.12, y=64.00, z=14.80]
+[00:20:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82981, l='ServerLevel[world]', x=-430.12, y=64.00, z=14.80]
+[00:20:36] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82981, l='ServerLevel[world]', x=-430.12, y=64.00, z=14.80]
+[00:20:37] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82981, l='ServerLevel[world]', x=-430.12, y=64.00, z=14.80]
+[00:20:37] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/82981, l='ServerLevel[world]', x=-430.12, y=64.00, z=14.80]
+[00:20:38] [Server thread/INFO]: <Sami> tumhay bow bhi tau day raha tha
+[00:20:39] [Server thread/INFO]: <007Sameer> myny kb mara
+[00:20:46] [Server thread/INFO]: <007Sameer> mara hota tou zinda na hoti xD
+[00:20:49] [Server thread/INFO]: <Kazmi> mere pas jaga nahi he inventory me
+[00:21:12] [Server thread/INFO]: <007Sameer> cats ky paas ajao
+[00:21:15] [Server thread/INFO]: <007Sameer> they won't hurt
+[00:21:19] [Server thread/INFO]: <007Sameer> ateeb ao
+[00:21:32] [Server thread/INFO]: <007Sameer> kazmi panga ni lo xD
+[00:21:46] [Server thread/INFO]: ShadowMaster was slain by Kazmi
+[00:21:59] [Server thread/INFO]: <Ateeb> Thanks
+[00:22:07] [Server thread/INFO]: Kazmi was shot by Sami
+[00:22:16] [Server thread/INFO]: <Sami> yea jaan booch k nahi mara
+[00:22:25] [Server thread/INFO]: <Kazmi> sure
+[00:22:36] [Server thread/INFO]: Ateeb has made the advancement [Take Aim]
+[00:22:37] [Server thread/INFO]: <Sami> sahi bara raha hun, was killing phantoms
+[00:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[00:22:44] [Server thread/INFO]: <Sami> last time jaan booch k mara tha
+[00:22:47] [Server thread/INFO]: <Kazmi> ghar banana he mjhe
+[00:22:52] [Server thread/INFO]: <007Sameer> killed 7
+[00:22:53] [Server thread/INFO]: <Sami> kahan?
+[00:22:57] [Server thread/INFO]: <Kazmi> batao na kaha banaon
+[00:23:02] [Server thread/WARN]: Ateeb moved too quickly! -7.570890083522897,0.0,-6.586686768918845
+[00:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4613ms or 92 ticks behind
+[00:23:05] [Server thread/INFO]: <Kazmi> agar fursat mil gai ho mjhe marnay se
+[00:23:11] [Server thread/INFO]: <Sami> hill k upar bana sakti ho
+[00:23:23] [Server thread/INFO]: <007Sameer> sheep ki taraf ni banana, cause supreme lag
+[00:23:24] [Server thread/INFO]: <Kazmi> not sure if you are serious
+[00:23:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[00:23:42] [Server thread/INFO]: <Kazmi> sami dur raho
+[00:23:45] [Server thread/INFO]: <Sami> chalo jaga daikhay hain
+[00:23:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:23:52] [Server thread/INFO]: <Sami> ..................................
+[00:23:55] [Server thread/INFO]: Kazmi was shot by ShadowMaster using [Oliver Queen]
+[00:24:00] [Server thread/INFO]: <007Sameer> xD
+[00:24:01] [Server thread/INFO]: <Kazmi> ,..........
+[00:24:02] [Server thread/INFO]: <007Sameer> nice name
+[00:24:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:24:11] [Server thread/INFO]: ShadowMaster was burnt to a crisp whilst fighting Sami
+[00:24:12] [Server thread/INFO]: <Kazmi> shadow master........
+[00:24:16] [Server thread/INFO]: <007Sameer> aik shru hota hy sb maarna shuru
+[00:24:22] [Server thread/INFO]: <007Sameer> base neutral
+[00:24:36] [Server thread/INFO]: <007Sameer> pvp arena banana pareyga xD
+[00:24:56] [Server thread/INFO]: <007Sameer> also, pls bees ko ni maarna kuch bhi hojae
+[00:24:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[00:25:04] [Server thread/INFO]: <007Sameer> yeh inky phadday
+[00:25:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
+[00:25:29] [Server thread/INFO]: <Kazmi> bhai mera ghar ka batao na, apne phadday baad me karna
+[00:25:34] [Server thread/INFO]: <007Sameer> sami, blast furnace ki waja sey baby villager escaped
+[00:25:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:25:56] [Server thread/INFO]: <Sami> fllow
+[00:26:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[00:26:13] [Server thread/INFO]: <Sami> yahan banain?
+[00:26:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:26:41] [Server thread/INFO]: <Sami> hello?
+[00:26:44] [Server thread/INFO]: <007Sameer> fletcher now gives arrow of slow falling
+[00:26:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[00:26:56] [Server thread/INFO]: Kazmi lost connection: Disconnected
+[00:26:56] [Server thread/INFO]: Kazmi left the game
+[00:26:58] [Server thread/INFO]: <007Sameer> yeap
+[00:27:15] [Server thread/INFO]: <007Sameer> shi chling
+[00:27:27] [Server thread/INFO]: Kazmi[/39.34.147.114:31638] logged in with entity id 84954 at (-474.34261972109715, 74.0, 17.168841044520608)
+[00:27:27] [Server thread/INFO]: Kazmi joined the game
+[00:27:36] [Server thread/INFO]: <Sami> hows this place areeba?
+[00:27:45] [Server thread/INFO]: <Sami> clear karna asan oga
+[00:27:55] [Server thread/INFO]: <Ateeb> mike issues
+[00:27:58] [Server thread/INFO]: Kazmi lost connection: Disconnected
+[00:27:58] [Server thread/INFO]: Kazmi left the game
+[00:28:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[00:28:13] [Server thread/INFO]: Kazmi[/39.34.147.114:31012] logged in with entity id 85140 at (-474.34261972109715, 74.0, 17.168841044520608)
+[00:28:13] [Server thread/INFO]: Kazmi joined the game
+[00:28:45] [Server thread/INFO]: Kazmi lost connection: Disconnected
+[00:28:45] [Server thread/INFO]: Kazmi left the game
+[00:29:33] [Server thread/INFO]: Kazmi[/39.34.147.114:30990] logged in with entity id 85542 at (-474.34261972109715, 74.0, 17.168841044520608)
+[00:29:33] [Server thread/INFO]: Kazmi joined the game
+[00:29:36] [Server thread/INFO]: <Ateeb> Can hear. Meri shayad awaz ja nahi rahi
+[00:29:51] [Server thread/INFO]: <007Sameer> ah
+[00:30:08] [Server thread/INFO]: <Sami> hows this place?
+[00:30:18] [Server thread/INFO]: <Kazmi> idk?
+[00:30:32] [Server thread/INFO]: <Sami> road tay banjaegi yahan tak ki
+[00:30:37] [Server thread/INFO]: <Sami> sab k kareeb bhi hay
+[00:30:38] [Server thread/INFO]: <Kazmi> mera connection hi lost hue jara he ajeeb
+[00:30:46] [Server thread/INFO]: <Sami> batao, clear karna asan hoga
+[00:30:50] [Server thread/INFO]: <Sami> not too many trees
+[00:31:03] [Server thread/INFO]: Ateeb drowned
+[00:31:07] [Server thread/INFO]: <Kazmi> ijatt
+[00:31:12] [Server thread/INFO]: <Kazmi> okay*
+[00:31:29] [Server thread/INFO]: <Kazmi> clear karun?
+[00:31:46] [Server thread/INFO]: <Sami> mil k karlaytay hain
+[00:31:48] [Server thread/INFO]: <Sami> got tools?
+[00:31:59] [Server thread/INFO]: <Sami> just clear stems
+[00:32:05] [Server thread/INFO]: <Sami> leaves khud girjatay hain
+[00:32:10] [Server thread/INFO]: <Sami> also, no axe?
+[00:32:11] [Server thread/INFO]: <Kazmi> ok ok
+[00:32:29] [Server thread/INFO]: <007Sameer> right click
+[00:33:04] [Server thread/INFO]: 007Sameer lost connection: Disconnected
+[00:33:04] [Server thread/INFO]: 007Sameer left the game
+[00:33:04] [Server thread/INFO]: Ateeb lost connection: Disconnected
+[00:33:04] [Server thread/INFO]: Ateeb left the game
+[00:33:04] [Server thread/INFO]: AzanYousuf lost connection: Disconnected
+[00:33:04] [Server thread/INFO]: AzanYousuf left the game
+[00:33:04] [Server thread/INFO]: Sami lost connection: Disconnected
+[00:33:04] [Server thread/INFO]: Sami left the game
+[00:33:05] [Server thread/INFO]: ShadowMaster lost connection: Disconnected
+[00:33:05] [Server thread/INFO]: ShadowMaster left the game
+[00:33:05] [Server thread/INFO]: Inversia lost connection: Disconnected
+[00:33:06] [Server thread/INFO]: Inversia left the game
+[00:33:06] [Server thread/INFO]: Kazmi lost connection: Disconnected
+[00:33:06] [Server thread/INFO]: Kazmi left the game
+[00:33:26] [Server thread/INFO]: 007Sameer[/202.47.50.2:50243] logged in with entity id 86775 at (-484.82507907530004, 75.0, 20.680573014780677)
+[00:33:26] [Server thread/INFO]: 007Sameer joined the game
+[00:33:30] [Server thread/INFO]: Inversia[/103.101.232.185:52239] logged in with entity id 86778 at (-503.8708379770732, 64.0, -28.72712763945568)
+[00:33:30] [Server thread/INFO]: Inversia joined the game
+[00:33:31] [Server thread/INFO]: Kazmi[/39.34.147.114:30992] logged in with entity id 86792 at (-474.46880852512305, 75.0, 24.825914139607182)
+[00:33:31] [Server thread/INFO]: Kazmi joined the game
+[00:33:38] [Server thread/INFO]: Sami[/42.201.188.143:37596] logged in with entity id 86811 at (-478.6475653502931, 75.0, 16.642911135140547)
+[00:33:38] [Server thread/INFO]: Sami joined the game
+[00:33:47] [Server thread/INFO]: Ateeb[/58.65.198.252:54616] logged in with entity id 86840 at (-755.4596050126867, 63.0, -63.34055307800705)
+[00:33:47] [Server thread/INFO]: Ateeb joined the game
+[00:33:49] [Server thread/INFO]: <007Sameer> dirt is best removed by shovels
+[00:34:08] [Server thread/INFO]: Inversia lost connection: Disconnected
+[00:34:08] [Server thread/INFO]: Inversia left the game
+[00:34:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[00:35:12] [Server thread/INFO]: <Sami> flat nahi karna?
+[00:35:20] [Server thread/INFO]: <Sami> this leve
+[00:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7069ms or 141 ticks behind
+[00:35:24] [Server thread/INFO]: <Sami> level*
+[00:35:27] [Server thread/INFO]: Ateeb lost connection: Disconnected
+[00:35:27] [Server thread/INFO]: Ateeb left the game
+[00:35:28] [Server thread/INFO]: <Kazmi> karna tha. mene nahi kia ye. men khud neeche gir gai .-.
+[00:35:35] [Server thread/INFO]: <Sami> lol
+[00:35:38] [Server thread/INFO]: <Sami> upar aajao
+[00:35:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8336ms or 166 ticks behind
+[00:35:57] [Server thread/INFO]: Inversia[/103.101.232.185:52271] logged in with entity id 87599 at (-503.4076330091869, 64.0, -29.219440334679582)
+[00:35:57] [Server thread/INFO]: Inversia joined the game
+[00:36:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7137ms or 142 ticks behind
+[00:36:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5826ms or 116 ticks behind
+[00:36:27] [Server thread/INFO]: <Kazmi> mjhe karne do na samiiiiiiii
+[00:37:44] [Server thread/INFO]: <Sami> inventory may say faltu cheezain peechay chest may daldo na
+[00:39:08] [Server thread/INFO]: <Sami> shovel areeba
+[00:39:19] [Server thread/INFO]: <Sami> yea lo
+[00:39:21] [Server thread/INFO]: <Kazmi> lol ok banati hun
+[00:40:21] [Server thread/INFO]: Inversia lost connection: Disconnected
+[00:40:21] [Server thread/INFO]: Inversia left the game
+[00:40:27] [Server thread/INFO]: Kazmi was slain by Zombie
+[00:40:34] [Server thread/INFO]: <007Sameer> F
+[00:41:43] [Server thread/INFO]: Kazmi was shot by Sami
+[00:41:49] [Server thread/INFO]: <Sami> ZOMBIE MARR RAHA THA
+[00:41:51] [Server thread/INFO]: <Kazmi> ....................
+[00:41:52] [Server thread/INFO]: <Sami> PROMISE
+[00:42:06] [Server thread/INFO]: <Kazmi> han zombie hi laga tha mjhe bhi... but sami kun likha aya
+[00:42:26] [Server thread/INFO]: <Kazmi> subha kab hogi....
+[00:42:36] [Server thread/INFO]: <Sami> 8 min real time ki raat hoti hay
+[00:42:41] [Server thread/INFO]: <Sami> waisay thora armour lay lo
+[00:42:56] [Server thread/INFO]: AzanYousuf[/111.88.223.122:53714] logged in with entity id 89068 at (-113.99027845315986, 14.0, 44.808985070456025)
+[00:42:56] [Server thread/INFO]: AzanYousuf joined the game
+[00:43:01] [Server thread/INFO]: AzanYousuf lost connection: Disconnected
+[00:43:01] [Server thread/INFO]: AzanYousuf left the game
+[00:43:02] [Server thread/INFO]: <Sami> this chest
+[00:43:17] [Server thread/INFO]: <Kazmi> hahahahaha
+[00:43:31] [Server thread/INFO]: <Kazmi> how
+[00:43:43] [Server thread/INFO]: <Sami> inventory may aagaya?
+[00:43:59] [Server thread/INFO]: <Kazmi> umm no
+[00:44:01] [Server thread/INFO]: <Sami> inventory may shift+click
+[00:44:15] [Server thread/INFO]: <Sami> normal item ki tarhan inventory may dalo
+[00:44:56] [Server thread/INFO]: Kazmi has made the advancement [Suit Up]
+[00:45:03] [Server thread/INFO]: Inversia[/103.101.232.185:52370] logged in with entity id 89486 at (-503.9785646852343, 63.5, -35.41767633973657)
+[00:45:03] [Server thread/INFO]: Inversia joined the game
+[00:45:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2195ms or 43 ticks behind
+[00:45:46] [Server thread/INFO]: <007Sameer> andar sand/dirt lagado, usmei seagrass and kelp
+[00:45:48] [Server thread/WARN]: Inversia moved too quickly! -9.903715643780629,1.1661092609382138,1.6746961303578511
+[00:46:02] [Server thread/INFO]: Inversia lost connection: Disconnected
+[00:46:02] [Server thread/INFO]: Inversia left the game
+[00:46:45] [Server thread/INFO]: <Kazmi> sami what you doing bro
+[00:46:55] [Server thread/INFO]: <Sami> making a public aquarium
+[00:47:02] [Server thread/INFO]: Inversia[/103.101.232.185:52380] logged in with entity id 89743 at (-475.83532965431704, 64.0, 1.4210446959736776)
+[00:47:02] [Server thread/INFO]: Inversia joined the game
+[00:47:21] [Server thread/INFO]: <007Sameer> nether party kro
+[00:47:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4052ms or 81 ticks behind
+[00:47:29] [Server thread/INFO]: 007Sameer lost connection: Disconnected
+[00:47:29] [Server thread/INFO]: 007Sameer left the game
+[00:47:29] [Server thread/INFO]: Kazmi lost connection: Disconnected
+[00:47:29] [Server thread/INFO]: Kazmi left the game
+[00:47:29] [Server thread/INFO]: Inversia lost connection: Disconnected
+[00:47:29] [Server thread/INFO]: Inversia left the game
+[00:47:29] [Server thread/INFO]: Sami lost connection: Disconnected
+[00:47:29] [Server thread/INFO]: Sami left the game
+[00:47:47] [Server thread/INFO]: Inversia[/103.101.232.185:52388] logged in with entity id 89809 at (-494.75101927409094, 64.0, -3.605438467514155)
+[00:47:47] [Server thread/INFO]: Inversia joined the game
+[00:47:52] [Server thread/INFO]: 007Sameer[/202.47.50.2:50789] logged in with entity id 89857 at (-443.93537273601555, 67.5, 23.34446719993503)
+[00:47:52] [Server thread/INFO]: 007Sameer joined the game
+[00:47:52] [Server thread/INFO]: Sami[/42.201.188.143:33512] logged in with entity id 89862 at (-443.54361013114635, 64.0, -1.6835480350170156)
+[00:47:52] [Server thread/INFO]: Sami joined the game
+[00:47:55] [Server thread/INFO]: Kazmi[/39.34.147.114:31656] logged in with entity id 89889 at (-489.16837914557294, 64.0, -20.784503096877444)
+[00:47:55] [Server thread/INFO]: Kazmi joined the game
+[00:47:59] [Server thread/INFO]: Kazmi lost connection: Disconnected
+[00:47:59] [Server thread/INFO]: Kazmi left the game
+[00:51:36] [Server thread/INFO]: <007Sameer> me to librarian: gimme unbreaking 3
+[00:51:48] [Server thread/INFO]: <007Sameer> librarian: gimme 59 emeralds, I give smite 5
+[00:51:58] [Server thread/INFO]: <007Sameer> undead
+[00:52:03] [Server thread/INFO]: <007Sameer> wither killer banaskty hain
+[00:52:33] [Server thread/INFO]: 007Sameer lost connection: Disconnected
+[00:52:33] [Server thread/INFO]: 007Sameer left the game
+[00:52:39] [Server thread/INFO]: 007Sameer[/202.47.50.2:51343] logged in with entity id 90773 at (-445.1769497767324, 67.5, 23.69999998807907)
+[00:52:39] [Server thread/INFO]: 007Sameer joined the game
+[00:54:54] [Server thread/INFO]: Inversia lost connection: Timed out
+[00:54:54] [Server thread/INFO]: Inversia left the game
+[00:54:54] [Server thread/INFO]: Inversia[/103.101.232.185:52403] logged in with entity id 91065 at (-503.6604453551299, 65.5, -32.257526207818685)
+[00:54:54] [Server thread/INFO]: Inversia joined the game
+[00:55:20] [Server thread/INFO]: <007Sameer> sami, got splash potion of weakness?
+[00:55:36] [Server thread/INFO]: <007Sameer> okss
+[00:55:42] [Server thread/INFO]: <007Sameer> hoon call pr
+[00:56:44] [Server thread/INFO]: <007Sameer> kia
+[00:56:52] [Server thread/INFO]: <007Sameer> ahh
+[00:56:56] [Server thread/INFO]: <007Sameer> silk touch sey pick krty hain
+[00:57:04] [Server thread/INFO]: <007Sameer> otherwise they die
+[00:57:26] [Server thread/INFO]: <007Sameer> me tou bed ty
+[00:59:27] [Server thread/INFO]: Inversia lost connection: Disconnected
+[00:59:27] [Server thread/INFO]: Inversia left the game
+[00:59:27] [Server thread/INFO]: Inversia[/103.101.232.185:52413] logged in with entity id 91781 at (-504.4160135148338, 69.0, -24.806765081107297)
+[00:59:27] [Server thread/INFO]: Inversia joined the game
+[01:00:15] [Server thread/INFO]: Sami has made the advancement [Tactical Fishing]
+[01:01:58] [Server thread/INFO]: ShadowMaster[/202.47.43.20:7850] logged in with entity id 92347 at (-500.9534555628532, 84.0, 19.934411504509267)
+[01:01:58] [Server thread/INFO]: ShadowMaster joined the game
+[01:02:21] [Server thread/INFO]: <007Sameer> teams
+[01:02:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[01:03:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3244ms or 64 ticks behind
+[01:03:51] [Server thread/INFO]: Kazmi[/39.34.147.114:31398] logged in with entity id 92674 at (-489.16837914557294, 64.0, -20.784503096877444)
+[01:03:51] [Server thread/INFO]: Kazmi joined the game
+[01:03:56] [Server thread/INFO]: <007Sameer> other fish are found in sea, cod
+[01:04:05] [Server thread/INFO]: <007Sameer> and other pretty ones in coral reef
+[01:04:14] [Server thread/INFO]: <007Sameer> they are classified as clown fish
+[01:04:18] [Server thread/INFO]: <007Sameer> but look different
+[01:04:25] [Server thread/INFO]: <007Sameer> myny ni mara
+[01:06:48] [Server thread/INFO]: osamausf[/111.88.223.122:56934] logged in with entity id 93137 at (-400.5, 64.0000002, -14.5)
+[01:06:48] [Server thread/INFO]: osamausf joined the game
+[01:07:00] [Server thread/INFO]: <007Sameer> rip sever
+[01:07:02] [Server thread/INFO]: <007Sameer> server
+[01:07:05] [Server thread/INFO]: osamausf lost connection: Timed out
+[01:07:05] [Server thread/INFO]: osamausf left the game
+[01:07:19] [Server thread/INFO]: osamausf[/111.88.223.122:56941] logged in with entity id 93250 at (-400.3169655834412, 64.96636804164123, -13.8795239053219)
+[01:07:19] [Server thread/INFO]: osamausf joined the game
+[01:07:22] [Server thread/INFO]: <007Sameer> oh, sami mushroom dekha?
+[01:07:39] [Server thread/INFO]: <007Sameer> haan contraption didn't work, tou just used a creeper hole xD
+[01:08:21] [Server thread/INFO]: <007Sameer> ateeb
+[01:08:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2540ms or 50 ticks behind
+[01:09:06] [Server thread/INFO]: <007Sameer> yr kon ni soya
+[01:09:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6591ms or 131 ticks behind
+[01:09:18] [Server thread/INFO]: <007Sameer> ni within 3 days
+[01:09:21] [Server thread/INFO]: <007Sameer> cause phir phantoms xD
+[01:09:25] [Server thread/INFO]: <osamausf> me
+[01:09:26] [Server thread/INFO]: <007Sameer> abhi massive phantom fight hui thi
+[01:09:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[01:09:58] [Server thread/INFO]: <007Sameer> shadow master was experimenting
+[01:10:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5515ms or 110 ticks behind
+[01:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[01:12:11] [Server thread/INFO]: <osamausf> extra netherite hy ksi k pas?xD
+[01:12:39] [Server thread/INFO]: <007Sameer> extra ni hota kbhi netherite xD
+[01:12:44] [Server thread/INFO]: <osamausf> XD
+[01:13:40] [Server thread/INFO]: osamausf was slain by Zombie
+[01:14:00] [Server thread/INFO]: Kazmi was slain by Zombie
+[01:14:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2572ms or 51 ticks behind
+[01:14:15] [Server thread/INFO]: Sami lost connection: Disconnected
+[01:14:15] [Server thread/INFO]: Sami left the game
+[01:14:15] [Server thread/INFO]: 007Sameer lost connection: Disconnected
+[01:14:15] [Server thread/INFO]: 007Sameer left the game
+[01:14:15] [Server thread/INFO]: Inversia lost connection: Disconnected
+[01:14:15] [Server thread/INFO]: Inversia left the game
+[01:14:15] [Server thread/INFO]: ShadowMaster lost connection: Disconnected
+[01:14:15] [Server thread/INFO]: ShadowMaster left the game
+[01:14:16] [Server thread/INFO]: Kazmi lost connection: Disconnected
+[01:14:16] [Server thread/INFO]: Kazmi left the game
+[01:14:16] [Server thread/INFO]: osamausf lost connection: Disconnected
+[01:14:16] [Server thread/INFO]: osamausf left the game
+[01:14:39] [Server thread/INFO]: Sami[/42.201.188.143:38360] logged in with entity id 94697 at (-489.71279181026114, 75.0, 22.837168192116113)
+[01:14:39] [Server thread/INFO]: Sami joined the game
+[01:14:39] [Server thread/INFO]: 007Sameer[/202.47.50.2:52041] logged in with entity id 94698 at (-466.0221057843204, 82.5, -0.9246653496963788)
+[01:14:39] [Server thread/INFO]: 007Sameer joined the game
+[01:14:43] [Server thread/INFO]: Kazmi[/39.34.147.114:30020] logged in with entity id 94715 at (-400.5, 64.0, -14.667709056512036)
+[01:14:43] [Server thread/INFO]: Kazmi joined the game
+[01:14:52] [Server thread/INFO]: <007Sameer> no aag
+[01:15:16] [Server thread/INFO]: <007Sameer> livestock km krna parega, ya phir relocate
+[01:15:17] [Server thread/INFO]: osamausf[/111.88.223.122:56957] logged in with entity id 94847 at (-400.75448937743, 64.0, 0.13353152646359684)
+[01:15:17] [Server thread/INFO]: osamausf joined the game
+[01:15:22] [Server thread/INFO]: <007Sameer> wrna lag will get unbearable
+[01:17:00] [Server thread/INFO]: <007Sameer> sami stronghold ky coordinates?
+[01:17:20] [Server thread/INFO]: <007Sameer> oh kazmi, mera elevator use kia hy?
+[01:17:36] [Server thread/INFO]: <007Sameer> ajao
+[01:17:51] [Server thread/INFO]: 007Sameer lost connection: Disconnected
+[01:17:51] [Server thread/INFO]: 007Sameer left the game
+[01:17:57] [Server thread/INFO]: 007Sameer[/202.47.50.2:52353] logged in with entity id 95294 at (-455.739304493128, 64.5, -7.713439217330597)
+[01:17:57] [Server thread/INFO]: 007Sameer joined the game
+[01:18:12] [Server thread/INFO]: <007Sameer> yeh wala ni
+[01:18:37] [Server thread/INFO]: <007Sameer> guest ki khatirdaari
+[01:18:43] [Server thread/INFO]: [Server] guys im closing therver for 2 secs
+[01:18:46] [Server thread/INFO]: <007Sameer> uper dekho
+[01:18:50] [Server thread/INFO]: [Server] server*
+[01:18:54] [Server thread/INFO]: <osamausf> ok
+[01:18:57] [Server thread/INFO]: Stopping the server
+[01:18:57] [Server thread/INFO]: Stopping server
+[01:18:58] [Server thread/INFO]: Saving players
+[01:18:58] [Server thread/INFO]: Sami lost connection: Internal Exception: java.lang.StackOverflowError
+[01:18:58] [Server thread/INFO]: Sami left the game
+[01:18:58] [Server thread/INFO]: osamausf lost connection: Internal Exception: java.lang.StackOverflowError
+[01:18:58] [Server thread/INFO]: osamausf left the game
+[01:18:58] [Server thread/INFO]: Saving worlds
+[01:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:19:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:19:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:19:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:19:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:19:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:19:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
